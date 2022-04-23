@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /currency-exchange
+
+exchange:
+  baseURI: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/
+  currency:
+    base: EUR
+  scheduler:
+    interval: 500000
