@@ -20,7 +20,7 @@ As a user, who accesses this service through a user interface, ...
 
 ### Implementation hints
 ●	The European Central Bank publishes reference exchange rates on a daily basis. You can find them here:
-https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_excha nge_rates/html/index.en.html
+https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html
 
 ●	The ECB uses EUR as the base currency. You can calculate non-EUR rates from the published data set.
 
